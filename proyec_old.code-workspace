@@ -1,0 +1,12 @@
+{
+  "folders": [
+    { "path": "." },                   // raíz (donde vive .git)
+    { "path": "casc_old-frontend" },
+    { "path": "casc_old-backend" }
+  ],
+  "settings": {
+    "git.openRepositoryInParentFolders": "always",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.profiles.windows": { "Git Bash": { "source": "Git Bash" } }
+  }
+}
